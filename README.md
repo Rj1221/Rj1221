@@ -2,7 +2,7 @@
 
 👋 Greetings! Welcome to my Github profile! 🌈
 
-![Profile Image](https://avatars.githubusercontent.com/u/97859593?v=4)
+![Technology Image](https://miro.medium.com/v2/resize:fit:1400/0*GKIyAWHbKbANm7d9.png)
 
 ### Who am I? 🤔
 I am Raj, a curious and passionate developer with a relentless thirst for knowledge and a strong desire to make a positive impact through technology. 💡 My coding journey began when I was captivated by the limitless possibilities that programming offered to bring ideas to life. Since then, I have been on an exciting quest to become a skilled MERN Stack Developer and delve deep into Android development.
