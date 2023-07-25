@@ -5,8 +5,7 @@
 <img src="https://e0.pxfuel.com/wallpapers/229/568/desktop-wallpaper-node-js-thumbnail.jpg" alt="Technology Image" width="200">
 
 ### Who am I? 🤔
-I am Raj, a curious and passionate developer with an insatiable thirst for knowledge and a strong desire to make a positive impact through technology. 💡 My coding journey began when I was captivated by the boundless possibilities that programming offers to bring ideas to life. Since then, I have been on an exciting quest to become a proficient MERN Stack Developer and delve deep into Android development.
-
+I am Raj, a curious and passionate developer with an insatiable thirst for knowledge and a strong desire to make a positive impact through technology. 💡 My coding journey began when I was captivated by the boundless possibilities that programming offers to bring ideas to life. Since then, I have been on an exciting quest to become a proficient MERN Stack Developer .
 ### What drives me? 🔥
 Innovation fuels my every step. I am driven by the belief that the most groundbreaking solutions often arise from a fusion of creativity and determination. I am constantly seeking ways to challenge the status quo and discover elegant and efficient solutions to complex problems.
 
