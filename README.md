@@ -1,4 +1,4 @@
-**🚀 About Me: Raj - Aspiring MERN Stack Developer and Android Enthusiast 🌟**
+**🚀 About Me: Raj - Aspiring MERN Stack Developer  🌟**
 
 👋 Greetings! Welcome to my GitHub profile! 🌈
 
