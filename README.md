@@ -1,5 +1,5 @@
 **🚀 About Me: Raj - Aspiring MERN Stack Developer | Connect with Me! 🌟**
-![Header](./[https://github.com/Rj1221/Rj1221/blob/main/github-header-image.png])
+![Header]([https://github.com/Rj1221/Rj1221/blob/main/github-header-image.png])
 
 👋 Greetings! Welcome to my GitHub profile! 🌈
 
