@@ -3,8 +3,6 @@
 
 👋 Greetings! Welcome to my GitHub profile! 🌈
 
-![Technology Image](https://e0.pxfuel.com/wallpapers/229/568/desktop-wallpaper-node-js-thumbnail.jpg)
-
 ### Who am I? 🤔
 I am Raj, a curious and passionate developer with an insatiable thirst for knowledge and a strong desire to make a positive impact through technology. 💡 My coding journey began when I was captivated by the boundless possibilities that programming offers to bring ideas to life. Since then, I have been on an exciting quest to become a proficient MERN Stack Developer.
 
