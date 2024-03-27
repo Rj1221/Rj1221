@@ -28,6 +28,7 @@ My passion lies in both MERN Stack development and Android app development. I fi
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rj1221&show_icons=true&locale=en" alt="rj1221" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rj1221&" alt="rj1221" /></p>
+
 ### My Work and Projects 🚀
 
 Here are some of the projects I have worked on, showcasing my skills and passion for technology:
