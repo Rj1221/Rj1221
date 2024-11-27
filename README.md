@@ -1,77 +1,141 @@
-<h1 align="center">Hi 👋, I'm Raj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
 ![Header](https://github.com/Rj1221/Rj1221/blob/main/github-header-image.png)
 
-👋 Greetings! Welcome to my GitHub profile! 🌈
+<h1 align="center">Hi there, I'm Raj 👋</h1>
+<h3 align="center">A Passionate Frontend Developer from India</h3>
 
-### Who am I? 🤔
-I am Raj, a curious and passionate developer with an insatiable thirst for knowledge and a strong desire to make a positive impact through technology. 💡 My coding journey began when I was captivated by the boundless possibilities that programming offers to bring ideas to life. Since then, I have been on an exciting quest to become a proficient MERN Stack Developer.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rj1221&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-### What drives me? 🔥
-Innovation fuels my every step. I am driven by the belief that the most groundbreaking solutions often arise from a fusion of creativity and determination. I am constantly seeking ways to challenge the status quo and discover elegant and efficient solutions to complex problems.
+---
 
-### My areas of interest 🌐
-My passion lies in both MERN Stack development and Android app development. I find myself captivated by the modern web technologies of MERN Stack, which comprises MongoDB, Express.js, React.js, and Node.js, allowing me to build robust and dynamic web applications. Simultaneously, I am intrigued by the world of Android development, where I can craft user-friendly and innovative mobile experiences.
+### 👨‍💻 About Me
 
+I'm a **MERN Stack Developer** and **Android app enthusiast** with a keen interest in building efficient and innovative solutions. My journey in coding started with a fascination for how technology can bring ideas to life, and I've been passionately pursuing it ever since.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rj1221&label=Profile%20views&color=0e75b6&style=flat" alt="rj1221" /> </p>
+- 🔭 Currently working on **[Plywood UI](https://plywoodworld.in/)** and **[Plywood Dashboard](https://admin.plywoodworld.in/login)**
+- 🌱 Learning **Angular**, **Next.js**, and **Advanced React**
+- 💬 Ask me about **React**, **Node.js**, **Angular**, and **Android Development**
+- 📫 Reach me at **[rj6207491172@gmail.com](mailto:rj6207491172@gmail.com)**
+- ⚡ Fun fact: I believe a cup of coffee can magically turn code into bug-free masterpieces!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rj1221" alt="rj1221" /></a> </p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
+### 🚀 Projects
 
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+1. **Plywood UI** 🌳  
+   A live website built with **Next.js** and **Material UI** for a plywood company.  
+   [View Website](https://plywoodworld.in/)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rj1221&show_icons=true&locale=en&layout=compact" alt="rj1221" /></p>
+2. **Plywood Dashboard** 📊  
+   A comprehensive admin dashboard developed using **Angular** and **PrimeNG**.  
+   [View Website](https://admin.plywoodworld.in/login)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rj1221&show_icons=true&locale=en" alt="rj1221" /></p>
+3. **Portfolio Website** 📝  
+   My personal portfolio showcasing my work, built with **React** and animation libraries.  
+   [View Project](https://raj-portfolio.netlify.app)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rj1221&" alt="rj1221" /></p>
+4. **Mi Store Clone** 🛍️  
+   A clone of the Mi Store using **React** and Mi Store API for product listings.  
+   [View Project](https://raj-mi-store-clone.netlify.app)
 
-### My Work and Projects 🚀
+5. **Netflix Clone with Alan AI** 🎬  
+   A Netflix clone integrated with **TMDB API** and **Alan AI** for voice commands.  
+   [View Project](https://filmfireraj.netlify.app)
 
-Here are some of the projects I have worked on, showcasing my skills and passion for technology:
+6. **Coffee Shop** ☕️  
+   A sleek and modern website built with **HTML**, **CSS**, and **JavaScript**.  
+   [View Project](https://raj-coffee-shop.netlify.app)
 
-1. **Portfolio Website** 📝
+---
 
-        My Portfolio Website Using React and Animating Library.
+### 🏆 Achievements
 
-[Explore Project](https://raj-portfolio.netlify.app)
+- **GitHub Profile Trophy:**  
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Rj1221&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true" alt="Trophies" />
+  </p>
 
-2. **Mi Store Clone**  🛍️
+- **Contributor to Open Source Projects**
+- **Built multiple full-stack applications using MERN stack**
 
-        Mi store Clone Using React and Mi store Api.
+---
 
-[Explore Project](https://raj-mi-store-clone.netlify.app)
+### 🛠️ Languages and Tools
 
-3. **Netflix CLone With Alan Ai** 🎬
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+</p>
 
-       Netlify Clone With TMDB Api and Integretion With it.
+---
 
- [Explore Project](https://filmfireraj.netlify.app)
+### 📊 GitHub Stats
 
-4. **Coffee Shop** ☕️
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rj1221&show_icons=true&theme=radical" alt="GitHub Stats" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rj1221&theme=radical" alt="GitHub Streak" width="45%"/>
+</p>
 
-        A Website Using Html Css and Javascript
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rj1221&layout=compact&theme=radical" alt="Top Languages" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rj1221&theme=radical" alt="Profile Details" width="45%"/>
+</p>
 
-[Explore Project](https://raj-coffee-shop.netlify.app)
+---
 
-### Collaboration and learning 🤝
-Collaboration excites me! I firmly believe in the power of teamwork, where ideas are combined, and synergies are created. Working with diverse minds not only broadens my horizons but also fosters an environment of continuous learning and improvement.
+### 💡 Quote of the Day
 
-### My vision 🌌
-Beyond lines of code, I aspire to create solutions that positively impact society and help improve lives. I firmly believe technology can be a force for good, and my goal is to contribute to projects that align with this vision.
+<p align="center">
+  <img src="https://readme-quote.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
+</p>
 
-### Connect with me! 📞
-If you share a passion for MERN Stack development,  innovation, and making a difference, I wholeheartedly welcome you to connect with me on LinkedIn and Google:
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?logo=linkedin)](https://www.linkedin.com/in/raj-8700b5214/)
+### 🌐 Socials
 
-[![Google](https://img.shields.io/badge/Google-Connect%20with%20Me-red?logo=google)](mailto:rj6207491172@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/raj-8700b5214/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:rj6207491172@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Rj1221">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
-Let's share knowledge, collaborate, and inspire each other to reach new heights in the world of technology.
+---
 
-Thank you for visiting my GitHub profile, and I eagerly look forward to connecting with you! 🙌
+### 📢 Let's Collaborate!
 
-<img src="https://media.tenor.com/4F0S8rm_t98AAAAC/thank-you-sticker-thanks-sticker.gif" alt="Gif" width="100">
+I'm always excited to work on interesting projects and collaborate with other developers. If you have an idea or a project that aligns with my expertise, feel free to reach out. Let's build something amazing together!
+
+---
+
+### 📝 Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Coming Soon: My Personal Blog!](#)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+Thank you for visiting my GitHub profile! Feel free to explore my repositories and get in touch.
+
+<p align="center">
+  <img src="https://media.tenor.com/4F0S8rm_t98AAAAC/thank-you-sticker-thanks-sticker.gif" alt="Thank You" width="300"/>
+</p>
