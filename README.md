@@ -94,15 +94,7 @@ I'm a **MERN Stack Developer** and **Android app enthusiast** with a keen intere
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rj1221&theme=radical" alt="Profile Details" width="45%"/>
 </p>
 
----
 
-### 💡 Quote of the Day
-
-<p align="center">
-  <img src="https://readme-quote.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
-</p>
-
----
 
 ### 🌐 Socials
 
