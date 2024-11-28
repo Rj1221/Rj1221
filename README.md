@@ -1,4 +1,4 @@
-![Header](https://github.com/Rj1221/Rj1221/blob/main/github_banner_professional_glow.gif)
+![Header](https://github.com/Rj1221/Rj1221/blob/main/github-header-image.png)
 
 <h1 align="center">Hi there, I'm Raj 👋</h1>
 
