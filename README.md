@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm Raj 👋</h1>
 
-<h3 align="center">A Passionate Frontend Developer from India</h3>
+<h3 align="center">A Passionate Full Stack Developer from India</h3>
 
 ---
 
